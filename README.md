@@ -25,11 +25,13 @@ If you have any problems with the installation, don't worry, we will be at the m
 ### Daily schedule
 
 Saturday, July 2 (Max)
-09:00 - 10:00 Help with installation/bug fixes
-10:00 - 13:00 Python Basics, Introduction to Numpy Package
+
+* 09:00 - 10:00 Help with installation/bug fixes
+* 10:00 - 13:00 Python Basics, Introduction to Numpy Package
 
 Sunday, July 3 (Niklas)
-10:00 - 13:00 Pandas (Data Wrangling) and Data Visualization with Matplotlib/Seaborn
+
+* 10:00 - 13:00 Pandas (Data Wrangling) and Data Visualization with Matplotlib/Seaborn
 
 If you have any questions about the schedule or problems with the installation, feel free to contact us via mail (dsa-muc@fs.lmu.de) or just join our Slack Channel (https://dsa-muc.slack.com ) and let us know.
 
